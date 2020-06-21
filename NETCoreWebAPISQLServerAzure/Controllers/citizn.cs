@@ -1,6 +1,6 @@
 ﻿namespace NETCoreWebAPISQLServerAzure.Controllers
 {
-    public class citizen
+    public class citizens
     {
         public int CURP { get; set; }
         public string Nombre { get; set; }
